@@ -8,10 +8,10 @@
 shubhams83/shubhams83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Hi there 👋, I'm [Krishnakishor](https://github.com/krishnakishor13) 👨‍💻
+### Hi there 👋, I'm [Shubham Shrivastava](https://github.com/shubhams83) 👨‍💻
 
 ### Visitors-Count
-![Visitor Count](https://profile-counter.glitch.me/{krishnakishor13}/count.svg)   
+![Visitor Count](https://profile-counter.glitch.me/{shubhams83}/count.svg)   
 
 <br/>
 
