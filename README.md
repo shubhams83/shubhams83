@@ -53,7 +53,7 @@ Want to become an Entrerpreneur 💸 and an Open Source Contributor ❤️.
 
 - 👨🏽‍💻 I’m currently working as a Full Stack Web Developer @ [TECHIS](https://techis.io/)
 
-- 📫 How to reach me: krishnakishor@techis.io
+- 📫 How to reach me: shubhams@techis.io
 - 📝 [Resume](https://drive.google.com/file/d/1bUOC23UPBNhVu5d-EQ4OKuvNikMFWOar/view?usp=sharing)
 
 ### 🛠️ Languages and Tools:
