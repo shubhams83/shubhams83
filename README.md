@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shubhams83
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Git & Github.
-- 💞️ I’m looking to collaborate on Web Application.
-- 📫 How to reach me 
+- 👋 Hi, I’m Shubham Shrivastava
+- 👀 I’m interested in Web Development & Technologies.
+- 🌱 I’m currently working on Self-Development -  Website - Django API + React & Redux - Travel Encyclopedia.
+- 💞️ I’m looking to collaborate with someone who is working on Web Application Project.
+- 📫 How to reach me - github id - <shubhams83>
 
 <!---
 shubhams83/shubhams83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,20 +15,20 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/imkrishna13/">
-  <img align="left" alt="Krishna's Linkedin" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/shubhamshrivastava600/">
+  <img align="left" alt="Shubham's Linkedin" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://t.me/jrnair13">
-  <img align="left" alt="Krishna's Telegram" width="80px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="add your link here">
+  <img align="left" alt="Shubham's Telegram" width="80px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/mrkunjiraman">
-  <img align="left" alt="kunjiRaman | Twitter" width="80px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="add your link here">
+  <img align="left" alt="Shubham | Twitter" width="80px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="mailto:krishnakishor@techis.io">
-  <img align="left" alt="krishna's's Email" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:shubhams@techis.io">
+  <img align="left" alt="Shubham's Email" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 
@@ -41,9 +41,9 @@ A Skilled FullStack Web Developer 🚀 from India. Always working on some projec
 <br/>
 Stacks I have worked with : React-Redux
 <br/>  
-Things I am currently experimenting with : Redux, JavaScript, SAAS
+Things I am currently experimenting with : HTML, CSS, JavaScript, Django, React, Redux
 <br/>
-Want to become an Entrerpreneur 💸 and an Open Source Contributor ❤️.
+Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Source Contributor for Nature thru Web Tech 💚.
 </p>
 
 
@@ -54,7 +54,7 @@ Want to become an Entrerpreneur 💸 and an Open Source Contributor ❤️.
 - 👨🏽‍💻 I’m currently working as a Full Stack Web Developer @ [TECHIS](https://techis.io/)
 
 - 📫 How to reach me: shubhams@techis.io
-- 📝 [Resume](https://drive.google.com/file/d/1bUOC23UPBNhVu5d-EQ4OKuvNikMFWOar/view?usp=sharing)
+- 📝 [Resume](add your link here)
 
 ### 🛠️ Languages and Tools:
 
