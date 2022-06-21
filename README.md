@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development & Technologies.
 - 🌱 I’m currently working on Self-Development -  Website - Django API + React & Redux - Travel Encyclopedia.
 - 💞️ I’m looking to collaborate with someone who is working on Web Application Project.
-- 📫 How to reach me - github id - <shubhams83>
+- 📫 How to reach me - github id - shubhams83
 
 <!---
 shubhams83/shubhams83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
